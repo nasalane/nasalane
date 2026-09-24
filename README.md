@@ -12,7 +12,7 @@
 
 - Master's student in Computer Science at University of Geneva.
 - Interested in Machine Learning, Reinforcement Learning and Information Retrieval.
-- Currently working on normalizing flows for high-dimensional density estimation and synthetic data generation.
+- Currently working on failure modes of normalizing flows for cytometry density estimation and synthetic data generation.
 ---
 
 ## Technical Skills
