@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-242424?style=for-the-badge&logoColor=white)](https://nasalane.netlify.app/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-242424?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://sn.linkedin.com/in/ndeye-awa-salane)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-242424?style=for-the-badge&logo=googlescholar&logoColor=4285F4)](https://scholar.google.com/citations?user=UukyIboAAAAJ&hl)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-242424?style=for-the-badge&logo=researchgate&logoColor=00CCBB)](https://www.researchgate.net/profile/Ndeye-Salane?ev=hdr_xprf)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-242424?style=for-the-badge&logo=researchgate&logoColor=00CCBB)](https://www.researchgate.net/profile/Ndeye-Salane)
 [![GitHub](https://img.shields.io/badge/GitHub-242424?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nasalane)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=acoderwannabe19.acoderwannabe19)
